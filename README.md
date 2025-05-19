@@ -1,5 +1,7 @@
 Here, a disparity map from stereo vision is employed to generate a 3D map in the way of occupancy grid.
 
+Related Paper: https://ieeexplore.ieee.org/abstract/document/10639980 Visual Autonomous Quadrotor Navigation Using an Improved Artificial Potential Field
+
 First, run Parameters.m, then you can run the simulink model OccupancyGrid.slx
 
 https://youtu.be/40YYLMU8rrs
